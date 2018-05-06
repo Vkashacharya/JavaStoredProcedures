@@ -1,0 +1,5 @@
+a
+BCDEFG
+NEW LINE
+d100
+100
