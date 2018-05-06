@@ -16,9 +16,9 @@ public class Java8demoStreamApi {
 		//--using for method using modulo
 		System.out.println(values.stream().filter(i->i%5==0).reduce(0,Integer::sum));
 	//--findfirst	
-		System.out.println(values.stream().filter(i->i%5==0).findFirst().orElse(0));
-		
-		
+//		System.out.println(values.stream().filter(i->i%5==0).findFirst().orElse(0));
+//		
+//		
 		
 		
 		int result=0;
